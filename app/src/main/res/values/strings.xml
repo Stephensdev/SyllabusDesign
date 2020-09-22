@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Syllabus Design</string>
+    <string name="wellcome">Wellcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="coins_amp_coupons">Coins &amp;\n Coupons</string>
+    <string name="featured_brands">Featured \nBrands</string>
+    <string name="shop_by_category">Shop by category</string>
+    <string name="_4_5">4.5</string>
+    <string name="_2019_comfort_class">2019 • COMFORT CLASS</string>
+    <string name="_2020_comfort_class">2020 • COMFORT CLASS</string>
+</resources>
